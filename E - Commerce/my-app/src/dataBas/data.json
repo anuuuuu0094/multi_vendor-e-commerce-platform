@@ -1,0 +1,49 @@
+{
+    "products": [
+      {
+        "category": "electronics",
+        "createdAt": "2025-07-19T09:00:00Z",
+        "description": "Over-ear, noise-cancelling headphones",
+        "id": 1001,
+        "images": "https://i.pinimg.com/1200x/42/73/8c/42738cbd6210b09d3eefa0dbcf9e9b8b.jpg",
+        "price": 3499,
+        "stock": 15,
+        "title": "Wireless Bluetooth Headphones",
+        "vendorId": "IruVtqStGuYcizV4GZfV1ssVmdw1"
+      },
+      {
+        "category": "home goods",
+        "createdAt": "2025-07-18T12:30:00Z",
+        "description": "Modern ceramic lamp with linen shade for home decor",
+        "id": 1002,
+        "images": "https://i.pinimg.com/736x/51/ec/56/51ec56aa92371006567b336ffdea441b.jpg",
+        "price": 1899,
+        "stock": 20,
+        "title": "Ceramic Table Lamp",
+        "vendorId": "IruVtqStGuYcizV4GZfV1ssVmdw1"
+      },
+      {
+        "category": "clothing",
+        "createdAt": "2025-07-17T16:45:00Z",
+        "description": "Stylish blue denim jacket for everyday wear",
+        "id": 1003,
+        "images": "https://i.pinimg.com/736x/fc/2c/f3/fc2cf3bdbbd92c04401903adc960f931.jpg",
+        "price": 2599,
+        "stock": 30,
+        "title": "Men's Casual Denim Jacket",
+        "vendorId": "IruVtqStGuYcizV4GZfV1ssVmdw1"
+      },
+      {
+        "category": "electronics",
+        "createdAt": "2025-07-16T10:20:00Z",
+        "description": "Water-resistant fitness band with heart-rate monitor",
+        "id": 1004,
+        "images": "https://i.pinimg.com/1200x/8e/9f/d2/8e9fd2c5f4af67bfd24dec3b2a223ee6.jpg",
+        "price": 1299,
+        "stock": 25,
+        "title": "Smart Fitness Band",
+        "vendorId": "IruVtqStGuYcizV4GZfV1ssVmdw1"
+      }
+    ]
+  }
+  
